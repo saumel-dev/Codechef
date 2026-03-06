@@ -1,0 +1,1 @@
+{"name":"Local: BUYTICK","url":"g:\\CP\\Codechef\\Starters 227\\BUYTICK.cpp\\","tests":[{"id":1772780054529,"input":"3\n4 3\n1 1 1 1\n0000\n4 3\n4 2 6 8\n1100\n4 3\n4 2 6 8\n0100","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\CP\\Codechef\\Starters 227\\BUYTICK.cpp\\","group":"local","local":true}
